@@ -1,0 +1,11 @@
+
+h2 {
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+mat-toolbar {
+  margin-bottom: 20px;
+}
+form {
+  text-align: center
+}
